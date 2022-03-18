@@ -4,11 +4,11 @@ Build an ecommerce site using Django
 online store
 
 Tools use
-Frondend
+# Frondend
 - HTML
 - CSS
 - JS
-Backend
+# Backend
 - python
 - Django
 
